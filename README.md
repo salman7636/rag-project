@@ -874,13 +874,4 @@ Always use your actual key only in your local .env file or secure Streamlit Secr
 
 
 
-### Your README is now complete
-
-
-You can simply:
-
-
-**GitHub → `README.md` → Edit → Ctrl+A → Paste the entire content above → Commit changes.**
-
-
 Then your repository will have a proper **project overview + architecture + installation + usage + RA
